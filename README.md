@@ -5,7 +5,7 @@ do dia da mulher 2017 (08/03/2017) realizado pelo IEEE Women in engineering.
 
 ## Estrutura do repositório
 
-* project
+* projeto
 
     Passo a passo do desenvolvimento de um jogo da velha em Python, onde os seguintes tópicos são abordados:
         
