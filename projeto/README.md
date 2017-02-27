@@ -49,11 +49,11 @@ Em cada versão é adicionada a seguinte funcionalidade:
   II - Tratar opções do menu  
   III - Perguntar nome dos jogadores  
   IV - Pedir ação para iniciar jogo  
-  V - Refatorar é preciso, viver não é preciso I
+  V - Refatorar é preciso, viver não é preciso I  
   VI - Confirmar ação para iniciar jogo  
   VII - Criar matriz e funções para manipular matriz  
-  VI - Funções para controlar o turno  
-  VII - Integrar V e VI = Jogo funciona wuhuuuu  
-  VIII - Funcionalidade para jogar partida novamente  
-  IX - Salvar informações em arquivo + Visualização de histórico funcionando :smile:!  
-  X - Refatorar é preciso !!! 
+  VIII - Funções para controlar o turno  
+  IX - Integrar VII e VIII = Jogo funciona wuhuuuu  
+  X - Refatorar é preciso, viver não é preciso II  
+  XI - Funcionalidade para jogar partida novamente  
+  XII - Salvar informações em arquivo + Visualização de histórico funcionando :smile:!  
