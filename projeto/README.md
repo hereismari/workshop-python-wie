@@ -37,7 +37,9 @@ que deve conter as seguintes funcionalidades:
     devem ser salvas em arquivo para que possam ser visualidas posteriormente.
 
   * Se o jogador desejar visualizar o histórico de partidas devem ser mostradas
-    as 5 partidas mais recentes.
+    as 5 partidas mais recentes.  
+
+  * Para cada opção de menu se for inserido algo inválido requisitar que insira novamente.
 
 ## Versões
 
@@ -46,10 +48,12 @@ Em cada versão é adicionada a seguinte funcionalidade:
   I - Imprimir menu  
   II - Tratar opções do menu  
   III - Perguntar nome dos jogadores  
-  IV - Confirmar ação para iniciar jogo  
-  V - Criar matriz e funções para manipular matriz  
+  IV - Pedir ação para iniciar jogo  
+  V - Refatorar é preciso, viver não é preciso I
+  VI - Confirmar ação para iniciar jogo  
+  VII - Criar matriz e funções para manipular matriz  
   VI - Funções para controlar o turno  
   VII - Integrar V e VI = Jogo funciona wuhuuuu  
   VIII - Funcionalidade para jogar partida novamente  
-  IX - Salvar informações em arquivo  
-  X - Histórico funcionando e projeto finalizado :smile:!!!  
+  IX - Salvar informações em arquivo + Visualização de histórico funcionando :smile:!  
+  X - Refatorar é preciso !!! 
