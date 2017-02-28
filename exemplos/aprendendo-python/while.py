@@ -1,8 +1,7 @@
 soma = 0
-numero = soma
 
 while soma < 15:
 	numero = int(raw_input())
-	soma = soma + numero
+	soma += numero
 
 print soma
